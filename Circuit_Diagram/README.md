@@ -3,7 +3,6 @@
 The circuit for the Women’s Safety Bag – Smart Emergency Alert System was designed and tested using Multisim.
 
 ## Components Connections (Overview)
-
 - **Arduino Uno**
   - Panic Button → Digital Pin 2
   - Vibration Sensor → Digital Pin 5
